@@ -57,17 +57,17 @@ a p:active{
     width: 800px;
     height: auto;
     /* how to 'go up a level' */
-    background-image: url("../images/photo-bkg.jpg");
-    background-color:aliceblue;
+    background-image: url("../images/new_blue.jfif");
     background-repeat: no-repeat;
-    background-position: top;
+    background-position:center;
+    background-size: cover;
     position: relative;
     padding-bottom: 20px;
 
 }
 #masthead{
     height:100px;
-    background-image: url("../images/buddha.jpg");
+    background-image: url("../images/new.jfif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -76,9 +76,9 @@ a p:active{
     width:50%;
     display: inline-block;
 }
-#trans-flower{
+#hot-dog{
     position:absolute;
-    width: 200px;
+    width: 300px;
     right: 0;
     bottom: 0;
 
